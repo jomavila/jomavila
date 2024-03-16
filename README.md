@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm <b> Jom Avila </b>, a full-stack web developer based in Metro Manila, Philippines.
+I'm <strong> Jom Avila </strong>, a full-stack web developer based in Metro Manila, Philippines.
 
 ### About Me
 
